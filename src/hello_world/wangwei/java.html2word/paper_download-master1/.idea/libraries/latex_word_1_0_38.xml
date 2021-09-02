@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="latex-word-1.0.38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/latex-word-1.0.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
